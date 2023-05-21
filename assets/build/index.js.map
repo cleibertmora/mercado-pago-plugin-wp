@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","mappings":";;;;;AAAAA,OAAO,CAACC,GAAR,CAAY,MAAZ,E","sources":["webpack://b2w-mercado-pago-plugin/./assets/src/index.js"],"sourcesContent":["console.log(\"hey!\")"],"names":["console","log"],"sourceRoot":""}

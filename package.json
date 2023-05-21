@@ -1,0 +1,20 @@
+{
+  "name": "b2w-mercado-pago-plugin",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "build": "wp-scripts build assets/src/index.js assets/src/frontend.js --output-path=assets/build",
+    "start": "wp-scripts start assets/src/index.js assets/src/frontend.js --output-path=assets/build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@wordpress/scripts": "23.3.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "imask": "^6.4.2"
+  }
+}

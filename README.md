@@ -1,0 +1,1 @@
+# mercado-pago-plugin-wp

@@ -1,0 +1,19 @@
+{
+    "name": "b2w/wp-mercado-pago-plugin-dealers",
+    "autoload": {
+        "psr-4": {
+            "B2WMercadoPago\\": "classes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "cleibertmora",
+            "email": "cleibert@bike2web.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "mercadopago/dx-php": "2.4.7"
+    },
+    "platform-check": false
+}
